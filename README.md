@@ -1,10 +1,10 @@
 # DSA-Linux-
 
 ## 1 Connect to VM by using Putty and Change Color and Font:
-   - Connect to VM using Putty.
-   - Change Putty settings:
-     - Background color modification: Left side icon > Change Settings > Colors > Default Background.
-     - Font size modification: Change Settings > Appearance > Font used in the terminal > Change > Font size 14.
+###  - Connect to VM using Putty.
+###  - Change Putty settings:
+###  - Background color modification: Left side icon > Change Settings > Colors > Default Background.
+###  - Font size modification: Change Settings > Appearance > Font used in the terminal > Change > Font size 14.
 
 2. **Demonstrate Commands in VM:**
    - `mkdir`: Create a directory.
